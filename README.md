@@ -6,3 +6,4 @@
 軟體將高精度雷射量測到之數據資料進行前處理後,把環境資料與處理後之量測資料輸入至空間精度計算公式中計算出三維每點之精度誤差後建立空間精度模型,並輸出可視化資料供研究人員做後續之利用.
 ## 成果
 
+![image](https://github.com/kyofire88/Volumetric_Accuracy/blob/main/image.png)
